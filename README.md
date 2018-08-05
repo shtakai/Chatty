@@ -1,4 +1,7 @@
 # Chatty
+
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/Chatty.svg)](https://www.guardrails.io)
+
 ## Adding Real-Time To Rails With Socket.IO, Node.js and Backbone.js
 
 For more information see the article explaining the application:
